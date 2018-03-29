@@ -10,3 +10,4 @@ AGI = Concept + Reasoning
 # Paper Lists:
 1. [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)
 2. [Visal Interaction Networks](https://arxiv.org/abs/1706.01433)
+3. [Learning to Compare: Relation Network for Few-Shot Learning](https://arxiv.org/abs/1711.06025)
